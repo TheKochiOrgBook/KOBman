@@ -1,0 +1,6 @@
+scripts/tmpl/README.md.tmpl
+scripts/Readme.md
+build/
+Dockerfile
+*.zip
+.travis.yml
